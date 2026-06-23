@@ -66,7 +66,6 @@ graph TD
 * **State Management:** Redux Toolkit (`@reduxjs/toolkit`, `react-redux`)
 * **Styling:** TailwindCSS
 * **Vision ML:** `face-api.js` (Client-side real-time face tracking & tab-switching proctoring)
-* **Charts & Analytics:** `Chart.js` & `react-circular-progressbar`
 * **Voice Processing:** AWS SDK (Polly for Text-to-Speech, Transcribe for Speech-to-Text)
 
 ### Backend
