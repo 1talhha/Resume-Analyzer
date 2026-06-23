@@ -1,4 +1,4 @@
-# 🚀 HireX: AI-Powered Smart Recruitment & Live Proctoring Platform
+# 🚀 HireX: AI-Powered Hiring Platform
 > **Final Year Project (FYP) Software Package & Handover Documentation**
 > An advanced recruitment ecosystem that simplifies, automates, and enhances hiring using AI resume parsing, automated skill evaluations, interactive live proctoring, and speech-to-text intelligence.
 
